@@ -1,0 +1,123 @@
+a, a:link, a:visited, a:active {
+  color: blue;
+  text-decoration: underline;
+}
+
+.here:hover {
+  cursor:pointer;
+  color: red;
+}
+
+.black10pointcourier {
+    font-family: 'courier'; 
+  color: black;
+  font-size: 10pt;		
+}
+
+.contain1 {
+  margin-left: 200px;
+}
+
+.dropzone {
+  border: 10px dashed gray;
+  width: 20%;
+  padding: 2% 2% 5% 2%;
+  text-align: center;
+  margin: 5px 0 5px 0;
+}
+
+.divTablefullwidth{
+  display: table;
+  
+}
+
+.afternav{
+    width: 100%;
+    margin-top: 100px;
+}
+.first{
+    display: flex;
+    justify-content: center;
+}
+
+.second{
+    display: flex;
+    justify-content: center;
+}
+
+.heading{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bolder;
+    font-size: 70px;
+    color: rgb(92, 92, 175);
+}
+h2,h5{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.greenspan {
+  color: green;	  
+}
+
+.redspan {
+  color: red;	  
+}
+
+.nav1{
+    height:90px;
+    background-color: rgb(94, 180, 238);
+    position: fixed;
+    top: 0;
+    width: 100%;
+    /* display: flex;
+    justify-content: center;
+    align-items: center; */
+}
+
+.butto1{
+    height: 50px;
+    margin: 20px;
+    border-radius: 8px;
+    background-color: rgb(167, 228, 234);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border-color: black;
+    position: relative;
+    float: right;
+}
+
+.pss{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 11px;
+    color: red;
+}
+
+.heading1{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 600;
+    font-size: 27px;
+}
+
+.content{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+}
+
+.content1{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 17px;
+}
+
+.buto1{
+    height: 50px;
+    margin: 20px;
+    border-radius: 8px;
+    background-color: rgb(254, 254, 254);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border-color: black;
+    cursor: pointer;
+}
+
+.textfield{
+  border-radius: 5px;
+}
+
